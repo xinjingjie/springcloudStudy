@@ -1,4 +1,4 @@
-package com.xinjingjie.springcloud.entities;
+package com.xinjingjie.cloudapicommons.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
